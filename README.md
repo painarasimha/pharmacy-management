@@ -14,7 +14,8 @@ Our Pharmacy Inventory Management System (PIMS) is designed to solve these issue
 - **Automated Ordering**: Automatically generates purchase orders based on stock levels and historical sales data.
 
 ### Technologies Used
-- **Full-Stack**: SvelteKit, TailwindCSS, Shadcn
+- **Frontend**: Svelte, TailwindCSS, Shadcn
+- **Backend**: SvelteKit
 - **Database**: MongoDB
 
 ### Getting Started 
@@ -24,4 +25,19 @@ Our Pharmacy Inventory Management System (PIMS) is designed to solve these issue
     - May include MongoDB Atlas (Cloud platform of MongoDB) if consisting of huge data.
 
 2. Installation:
+    - Clone the repository.
+    - Navigate to project directory.
+    - Install dependencies (npm install).
+    - Connect your database in src/lib directory.
+    - Run the application (npm run dev).
+
+### Contributing
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push changes to your fork.
+5. Submit a pull request to the main repository.
+
+### Additional Resources
+[Svelte](https://svelte.dev/docs/introduction)
  
