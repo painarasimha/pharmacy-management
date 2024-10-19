@@ -19,8 +19,8 @@ Our Pharmacy Inventory Management System (PIMS) is designed to solve these issue
 
 ### Getting Started 
 1. Pre-requisites:
-  - Node.js and npm installed.
-  - MongoDB installed and running.
+    - Node.js and npm installed.
+      - MongoDB installed and running.
   - May include MongoDB Atlas (Cloud platform of MongoDB) if consisting of huge data.
 
 2. Installation:
