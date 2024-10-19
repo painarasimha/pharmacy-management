@@ -12,3 +12,16 @@ Our Pharmacy Inventory Management System (PIMS) is designed to solve these issue
 - **Sales Analytics**: Provides detailed insights into sales trends, customer behaviors, and product performance.
 - **Batch Tracking**: Ensures that each batch of medicine is tracked from procurement to sale, aiding regulatory compliance.
 - **Automated Ordering**: Automatically generates purchase orders based on stock levels and historical sales data.
+
+### Technologies Used
+- **Full-Stack**: SvelteKit, TailwindCSS, Shadcn
+- **Database**: MongoDB
+
+### Getting Started 
+1. Pre-requisites:
+  - Node.js and npm installed.
+  - MongoDB installed and running.
+  - May include MongoDB Atlas (Cloud platform of MongoDB) if consisting of huge data.
+
+2. Installation:
+ 
