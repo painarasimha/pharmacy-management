@@ -39,5 +39,9 @@ Our Pharmacy Inventory Management System (PIMS) is designed to solve these issue
 5. Submit a pull request to the main repository.
 
 ### Additional Resources
-[Svelte](https://svelte.dev/docs/introduction)
+- [Svelte](https://svelte.dev/docs/introduction)
+- [SvelteKit](https://kit.svelte.dev/docs/introduction)
+- [Tailwind CSS](https://tailwindcss.com/docs/guides/sveltekit)
+- [Shadcn](https://shadcn-svelte.com/docs)
+- [MongoDB Documentation](https://www.mongodb.com/docs/)
  
